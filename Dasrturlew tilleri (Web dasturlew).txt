@@ -1,0 +1,32 @@
+            <!DOCTYPE html>
+     <html>
+  <head>
+     <title> Dasturlew tilleri </title>
+  </head>
+
+   <body>
+
+         <h1>  Dasturlew tilleri  </h1>
+    <pre>
+     Programmalastırıw — kompyuterler hám basqa mikroprotsessorli
+ elektron mashinalar ushın programmalar dúziw, sınap kóriw hám ózgertiw processinden ibarat.
+ Ádetde programmalastırıw joqarı dárejeli programmalastırıw tilleri  (PHP, Java, C++, Python ) 
+ jardeminde ámelge asıriladı. Bul programmalastırıw tilleriniń semantikasi adam tiline jaqınlıǵı 
+ sebepli programma dúziw procesi talay ańsat keshedi. 
+    </pre>
+
+        <h4> HTML Da'sturlew tili haqqinda mag'liwmat </h4>
+        <pre>
+     HTML - HyperText Markup Language ushın qısqartpa forma bolıp tabıladı hám 
+ ol 1990 — jılda Tim Berners-Li tárepinen islep shıǵılǵan. 
+ HTML WWW-de kórsetiletuǵın elektron hújjetlerdi (betler dep ataladı ) jaratıw ushın isletiledi.
+ Hár bir bet “Hyperlink” yaǵnıy “kópir”ler arqalı bir- birine jalǵanadı. Sol kópirlerdi basıw 
+ arqalı basqa betlerge ótesiz. 
+ Siz internette kóretuǵın hár bir veb bet HTML dıń bir yamasa basqa versiyalarınan paydalanıp jazılǵan.
+   HTML kodı tekst hám suwretlerdi tuwrı formatlawdı támiyinleydi, sol tárzde sizdiń Internet brauzerińiz
+ mólsherlengeni sıyaqlı kórsetedi.HTML bolmasa, brauzer tekstti elementler yamasa súwretler júklew retinde 
+ qanday kórsetiwdi bilmegen bolar edi.
+      </pre>
+
+  </body>
+  </html>
